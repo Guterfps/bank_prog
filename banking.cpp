@@ -21,7 +21,7 @@ int main()
 	int choice = 0;
 
 	do {
-		cout << "enter your choice \n";
+		cout << "enter your choice: \n";
 		cout << "1.show balance \n";
 		cout << "2.deposit \n";
 		cout << "3.withdraw \n";
